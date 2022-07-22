@@ -1,0 +1,47 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: #F5F7FA;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.main-content {
+    background-color: #fff;
+}
+
+.about {
+    background-color: yellow;
+}
+
+.projects {
+    background-color: chocolate;
+    margin-top: 100px;
+    margin-bottom: 300px;
+    margin-left: 60px;
+    margin-right: 90px;
+    /* margin: 100px 90px 300px 60px;
+    margin: 50px;
+    margin: 100px 50px; */
+}
+
+.title {
+    font-size: 45px;
+    color: blue;
+}
+.work {
+    background-color: cyan;
+    padding: 100px 40px 50px 20px;
+}
+
+.education {
+    background-color: darkblue;
+}
+
+.sidebar {
+    background-color: #1E2939;
+}
